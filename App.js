@@ -30,7 +30,7 @@ function App() {
         <Stack.Screen
           name="DetallesConsejo"
           component={DetallesConsejo}
-          options={{ title: 'Detalles de consejo' }}
+          options={{ title: 'Detalles del consejo' }}
         />
       </Stack.Navigator>
     </NavigationContainer>
